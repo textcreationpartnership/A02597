@@ -35,9 +35,19 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-King Iames his encomium· Or A poeme, in memorie and commendation of the high and mightie monarch Iam
+
+1. TO THE CHRISTIAN READER.
+
+1. THE EPISTLE DEDICATORIE.
+
+1. To the right magnanimous and worthie Lord, IAMES, Marqueſſe of Hamiltoun, &c,
+
+1. To the right magnanimous and worthie Lord, Sir George Hay, of Kilfawnes Knight, Lord Chancelour of Scotland.
+
 #####Body#####
-King Iames his encomium· Or A poeme, in memorie and commendation of the high and mightie monarch Iam
+
+1. KING IAMES his Encomium,
+A Poeticall Ecphraſe and Paraphraſe on the 13 verſe of the 14 chapter of S. Iohns RevelationSAying t
 **Types of content**
 
   * There are 948 **verse** lines!
